@@ -72,7 +72,7 @@ Implemented a digital banking feature for a web-based Monopoly game.
 ## 📊 Research Experience
 
 **Development and Application of an AI-Powered Healthcare Assistant**  
-An Open-Access Tool for Medical Education and Patient Care.
+- An Open-Access Tool for Medical Education and Patient Care.
 
 ---
 
