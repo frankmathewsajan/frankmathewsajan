@@ -44,10 +44,10 @@ VIT AP, Amaravati, India
 ## 💡 Projects
 
 ### 🛡️ Soft Robotics Based Safety System  (_in R&D phase_)
-Engineering an intelligent smart helmet with features such as temperature and gas detection, GPS, dispute resolution and much more...
+- Engineering an intelligent smart helmet with features such as temperature and gas detection, GPS, dispute resolution and much more...
 
 ### 🤖 MedChatbot (BinaryMedAI)  
-Developing an AI-powered chatbot for healthcare assistance as part of the 'Binary Brains' group. (_in R&D phase_)
+- Developing an AI-powered chatbot for healthcare assistance as part of the 'Binary Brains' group. (_in R&D phase_)
 
 ### 📝 PACE Educational Project  
 Created an application as part of NASA Space Apps Challenge '24. (_archived_)
