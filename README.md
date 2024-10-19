@@ -6,17 +6,6 @@
 
 ---
 
-## 📧 Contact Information
-
-- **Name:** Frank Mathew Sajan  
-- **Location:** Amaravati, India
-- **Email:** [frankmathewsajan@gmail.com](mailto:frankmathewsajan@gmail.com)  
-- **Contact Number:** (+91) _we are not that close yet_ (●'◡'●)
-- **LinkedIn:** [linkedin.com/in/frankmathewsajan](https://linkedin.com/in/frankmathewsajan)  
-- **GitHub:** [github.com/frankmathewsajan](https://github.com/frankmathewsajan)  
-
----
-
 ## 🎯 Objective
 
 Software engineer specializing in **AI/ML** and software development, mainly full-stack web development and innovative project experiences.
@@ -127,4 +116,17 @@ Issued by Government of Kerala · **March 2023**
 Issued by State Chief Commissioner · **February 2020** 
 - Highest state-level award in the Bharat Scouts & Guides (BSG) program.
 - Presented by the patron of the association, Arif Muhamad Khan, the Governor of Kerala.
+
+---
+  
+## 📧 Contact Information
+
+- **Name:** Frank Mathew Sajan  
+- **Location:** Amaravati, India
+- **Email:** [frankmathewsajan@gmail.com](mailto:frankmathewsajan@gmail.com)  
+- **Contact Number:** (+91) _we are not that close yet_ (●'◡'●)
+- **LinkedIn:** [linkedin.com/in/frankmathewsajan](https://linkedin.com/in/frankmathewsajan)  
+- **GitHub:** [github.com/frankmathewsajan](https://github.com/frankmathewsajan)  
+
+---
 
