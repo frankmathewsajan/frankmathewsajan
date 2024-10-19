@@ -1,96 +1,35 @@
-# 👨‍💻 Frank Mathew Sajan
+<h1 align="left">Hey 👋 What's up?</h1>
 
-**CSE Major @ VIT AP, Amaravati | Web Developer | AI & ML Enthusiast | Research Fellow**
+###
 
-📍 Amaravati, India | 🌍 Building innovative tech solutions
+<p align="left">My name is Frank, and I'm a software engineer from Kerala, India.</p>
 
----
+###
 
-## 🎯 Objective
+<h2 align="left">About me</h2>
 
-Aspiring software engineer with a focus on **AI/ML** and **full-stack web development**.
+###
 
----
+<p align="left">Creating bugs since 2019, I've been building open-source software and getting involved in startups.</p>
 
-## 🎓 Education
+###
 
-**B.Tech in Computer Science and Engineering**  
-VIT AP, Amaravati, India  
-- **Key Courses:** Data Structures, AI, Machine Learning, DBMS, Web Development
+<div align="left">
+  <a href="https://www.linkedin.com/in/frankmathewsajan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:frankmathewsajan@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
----
+###
 
-## 🌟 Skills
+[![GitHub Streak](https://streak-stats.demolab.com?user=frankmathewsajan&theme=dark&hide_border=true)](https://git.io/streak-stats)
+###
 
-- **Languages:** Python, Java, C++, Embedded C  
-- **Web Development:** Django, JavaScript  
-- **Databases:** SQL, NoSQL  
-- **Other:** Problem-solving, Teamwork, Arduino Programming, Computer Vision
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frankmathewsajan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
----
-
-## 💡 Projects
-
-- **Soft Robotics Based Safety System (R&D)**  
-  Developing a smart helmet with temperature, gas detection, GPS, and dispute resolution.
-
-- **MedChatbot (BinaryMedAI) (R&D)**  
-  AI chatbot for healthcare assistance.
-
-- **Higher Secondary School Management System**  
-  Streamlining school administration using Django, JavaScript, and SQLite.
-
-- **Library Management System**  
-  A GUI-based app for managing library operations. Built with Python, SQLite, and Tkinter.
-
-- **Monopoly Ultimate Banking Unit (Web Version)**  
-  Digital banking for Monopoly using HTML, Bootstrap, and Firebase.
-
----
-
-## 🏅 Hackathons
-
-- **Math AppFusion Hackathon (2024)**  
-  - **Team:** Anju, Revanth  
-  - **Award:** First Place  
-  - **Project:** SMTP email app using Django
-
----
-
-## 📊 Research Experience
-
-- **AI-Powered Healthcare Assistant**  
-  Open-access tool for medical education and patient care.
-
----
-
-## 📜 Certifications
-
-- **CS50P: Programming with Python** (Feb 2024)  
-- **CS50W: Web Development with Python and JavaScript** (Dec 2024)
-
----
-
-## 🌐 Languages
-
-- **English, Hindi:** Fluent  
-- **Telugu, Tamil:** Conversational  
-- **Malayalam:** Native
-
----
-
-## 🏆 Awards & Achievements
-
-- **Nanmamudra (Mar 2023)**  
-  Kerala Govt. award in Chief Minister's Shield competition.
-  
-- **Rajya Puraskar (Feb 2020)**  
-  Highest state-level Bharat Scouts & Guides award.
-
----
-
-## 📧 Contact
-
-- **Email:** [frankmathewsajan@gmail.com](mailto:frankmathewsajan@gmail.com)  
-- **LinkedIn:** [frankmathewsajan](https://linkedin.com/in/frankmathewsajan)  
-- **GitHub:** [frankmathewsajan](https://github.com/frankmathewsajan)
+###
