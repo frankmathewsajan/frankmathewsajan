@@ -25,7 +25,7 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=frankmathewsajan&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=frankmathewsajan)](https://git.io/streak-stats)
 ###
 
 <div align="center">
