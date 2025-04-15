@@ -1,22 +1,32 @@
-<p align="left">
-  Frank here — backend engineer, AI/ML explorer, and systems thinker from Kerala, India.  
-  Building machines that think, move, and someday dream.
-</p>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">
-  Calm hands. Loud mind. Code like poetry.
-  What I build isn't software — You decide.
-</p>
+###
+
+<p align="left">My name is Frank, and I'm a software engineer from Kerala, India.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">Creating bugs since 2019, I've been building open-source software and getting involved in startups.</p>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/frankmathewsajan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="24" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:frankmathewsajan@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="24" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frankmathewsajan&layout=compact&theme=dracula&hide_border=true" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frankmathewsajan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
