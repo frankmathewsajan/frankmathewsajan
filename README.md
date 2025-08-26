@@ -1,107 +1,78 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Frank Mathew Sajan</h1>
+<p align="center">💻 Software Engineer | Open Source Enthusiast | Problem Solver</p>
 
-<p align="left">My name is Frank, and I'm a software engineer from Kerala, India.</p>
+---
 
-<h2 align="left">About me</h2>
+## 🌟 About Me
+I'm a passionate software engineer from Kerala, India. I love building innovative applications, contributing to open-source projects, and solving challenging problems.  
+When I'm not coding, you'll find me exploring new technologies, learning about startups, or just creating fun little projects that make life easier.
 
-<p align="left">Creating bugs since 2019, I've been building open-source software and getting involved in startups.</p>
+---
 
-<hr>
+## ⚡ Tech Stack
 
-## ⚡ Languages, Tools and Technologies
+### Frontend & Design
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss,figma" height="30" />
 
-<table>
-  <tr>
-    <td><strong>Frontend & Design</strong></td>
-    <td><strong>Version Control</strong></td>
-    <td><strong>Editors</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss,figma">
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,bash&theme=dark">
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td><strong>Databases</strong></td>
-    <td><strong>Systems</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,cs">
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark">
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu&theme=dark">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend & Cloud</strong></td>
-    <td><strong>Miscellaneous</strong></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=express,django&theme=dark">
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=anaconda,raspberrypi,arduino&theme=dark">
-    </td>
-    <td></td>
-  </tr>
-</table>
+### Backend & Cloud
+<img src="https://skillicons.dev/icons?i=django,express,nodejs&theme=dark" height="30" />
 
-<hr>
+### Languages
+<img src="https://skillicons.dev/icons?i=python,cs,c,cpp" height="30" />
 
-## 👨‍💻 Competitive Coding Profile
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark" height="30" />
 
-<table style="width: 100%; text-align: center; border-collapse: collapse;">
-  <tr>
-    <td style="width: 50%; padding: 10px; text-align: center;">
-      <h3>Leetcode Info</h3>
-      <img src="https://leetcard.jacoblin.cool/frankmathewsajan?theme=unicorn&extension=activity" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    </td>
+### Tools & Systems
+<img src="https://skillicons.dev/icons?i=git,github,bash,vscode,linux,windows&theme=dark" height="30" />
 
-    <td style="width: 50%; padding: 10px; text-align: center;">
-      <h3>Codeforces Info</h3>
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=frankmathewsajan" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    </td>
-  </tr>
-</table>
+---
 
-<hr>
-
-## 📊 Metrics
-
+## 🏆 Competitive Coding
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frankmathewsajan&bg_color=2e3440&hide_border=true&point=true&line=81a1c1&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff&line_width=2&since=2023-11-01">
+  <img src="https://leetcard.jacoblin.cool/frankmathewsajan?theme=radical&extension=activity" style="max-width:100%; height:auto; border-radius: 15px;" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=frankmathewsajan&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankmathewsajan&langs_count=6&hide_border=true&border_radius=4.5&layout=compact&theme=dracula" height="150" />
+---
+
+## 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frankmathewsajan&theme=radical&area=true&hide_border=true" height="150" />
 </div>
 
-<hr>
+<div align="center" style="margin-top:10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frankmathewsajan&layout=compact&langs_count=6&theme=radical" height="150" />
+</div>
 
-## 🔗 Let's Connect
+---
 
-<div align="left">
+## 🔗 Connect With Me
+<div align="center">
   <a href="https://www.linkedin.com/in/frankmathewsajan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" />
   </a>
   <a href="mailto:frankmathewsajan@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" alt="Gmail" />
   </a>
   <a href="https://twitter.com/frankmathewsajan" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="40" height="40" alt="Twitter" />
+  </a>
+  <a href="https://github.com/frankmathewsajan" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" height="40" alt="GitHub" />
   </a>
 </div>
+
+---
+
+## 🚀 What I’m Working On
+- Building full-stack web applications with React & Django.
+- Learning advanced algorithms and data structures.
+- Contributing to open-source projects on GitHub.
+- Exploring AI and ML applications in real-world problems.
+
+---
+
+## 🎯 Fun Facts
+- Coffee fuels my coding sessions ☕  
+- I create "useful chaos" by experimenting with new tech.  
+- Always hunting for cool project ideas that no one has tried yet.
