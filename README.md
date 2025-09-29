@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Frank Mathew Sajan</h1>
 <p align="center">
-Software engineer from Kerala, India, building full-stack apps, contributing to open-source, and exploring embedded & cloud systems.
+Software engineer from Kerala, India, now studying Computer Science in Andhra Pradesh, building full-stack apps, contributing to open-source, and exploring embedded and cloud systems.
 </p>
 
 <div align="center">
