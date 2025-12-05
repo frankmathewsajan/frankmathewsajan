@@ -5,9 +5,9 @@ Software engineer from Kerala, India, building full-stack apps, contributing to 
 
 <div align="center">
 
-| Most Used Languages | Skills & Tools | Current Streak |
-|:-----------------:|:--------------:|:----------------:|
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frankmathewsajan&theme=radical" height="200"> | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss,figma" height="35"><br><br><img src="https://skillicons.dev/icons?i=django,express,nodejs&theme=dark" height="35"><br><br><img src="https://skillicons.dev/icons?i=python,java,js,sql" height="35"><br><br><img src="https://skillicons.dev/icons?i=mysql,supabase,aws,firebase&theme=dark" height="35"><br><br><img src="https://skillicons.dev/icons?i=git,bash,vscode,linux,arduino,raspberrypi&theme=dark" height="35"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=frankmathewsajan&theme=radical&hide_border=true" height="200"> |
+| Problem Solving | Skills & Tools | 
+|:-----------------:|:--------------:|
+| <img src="https://leetcard.jacoblin.cool/frankmathewsajan?theme=radical&font=Lora" height="180"> | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss,figma" height="35"><br><br><img src="https://skillicons.dev/icons?i=django,express,nodejs&theme=dark" height="35"><br><br><img src="https://skillicons.dev/icons?i=python,java,js,sql" height="35"><br><br><img src="https://skillicons.dev/icons?i=mysql,supabase,aws,firebase&theme=dark" height="35"><br><br><img src="https://skillicons.dev/icons?i=git,bash,vscode,linux,arduino,raspberrypi&theme=dark" height="35"> |
 
 </div>
 
