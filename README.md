@@ -7,7 +7,7 @@ Software engineer from Kerala, India, building full-stack apps, contributing to 
 
 | Most Used Languages | Skills & Tools | Competitive Coding |
 |:-----------------:|:--------------:|:----------------:|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frankmathewsajan&layout=compact&langs_count=6&theme=radical" height="200"> | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss,figma" height="35"><br><br><img src="https://skillicons.dev/icons?i=django,express,nodejs&theme=dark" height="35"><br><br><img src="https://skillicons.dev/icons?i=python,java,js,sql" height="35"><br><br><img src="https://skillicons.dev/icons?i=mysql,supabase,aws,firebase&theme=dark" height="35"><br><br><img src="https://skillicons.dev/icons?i=git,bash,vscode,linux,arduino,raspberrypi&theme=dark" height="35"> | <img src="https://leetcard.jacoblin.cool/frankmathewsajan?theme=radical&font=Lora" height="200"> |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frankmathewsajan&theme=radical" height="200"> | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss,figma" height="35"><br><br><img src="https://skillicons.dev/icons?i=django,express,nodejs&theme=dark" height="35"><br><br><img src="https://skillicons.dev/icons?i=python,java,js,sql" height="35"><br><br><img src="https://skillicons.dev/icons?i=mysql,supabase,aws,firebase&theme=dark" height="35"><br><br><img src="https://skillicons.dev/icons?i=git,bash,vscode,linux,arduino,raspberrypi&theme=dark" height="35"> | <img src="https://leetcard.jacoblin.cool/frankmathewsajan?theme=radical&font=Lora" height="200"> |
 
 </div>
 
