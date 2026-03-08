@@ -4,15 +4,15 @@ Software engineer from Kerala, India, building full-stack apps, contributing to 
 </p>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" height="100%" width="100%" />
-</div>
-
-
-<div align="center">
 
 | Problem Solving | Skills & Tools | 
 |:-----------------:|:--------------:|
 | <img src="https://leetcard.jacoblin.cool/frankmathewsajan?theme=radical&font=Lora" height="180"> | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss,figma" height="35"><br><br><img src="https://skillicons.dev/icons?i=django,express,nodejs&theme=dark" height="35"><br><br><img src="https://skillicons.dev/icons?i=python,java,js,sql" height="35"><br><br><img src="https://skillicons.dev/icons?i=mysql,supabase,aws,firebase&theme=dark" height="35"><br><br><img src="https://skillicons.dev/icons?i=git,bash,vscode,linux,arduino,raspberrypi&theme=dark" height="35"> |
 
 </div>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" height="83%" width="83%" />
+</div>
+<br>
 
