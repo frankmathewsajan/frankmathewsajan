@@ -12,5 +12,5 @@ Software engineer from Kerala, India, building full-stack apps, contributing to 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frankmathewsajan&theme=radical&area=true&hide_border=true" height="320" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" height="320" />
 </div>
