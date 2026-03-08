@@ -4,6 +4,11 @@ Software engineer from Kerala, India, building full-stack apps, contributing to 
 </p>
 
 <div align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" height="100%" width="100%" />
+</div>
+
+
+<div align="center">
 
 | Problem Solving | Skills & Tools | 
 |:-----------------:|:--------------:|
@@ -11,6 +16,3 @@ Software engineer from Kerala, India, building full-stack apps, contributing to 
 
 </div>
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" height="100%" width="100%" />
-</div>
