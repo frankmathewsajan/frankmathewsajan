@@ -12,5 +12,5 @@ Software engineer from Kerala, India, building full-stack apps, contributing to 
 </div>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" height="640" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" height="640" width="100%" />
 </div>
